@@ -1,7 +1,7 @@
 >Code hidden for academic integrity purposes
 
 # Course Selection Program
-This program allows users to choose their courses through CLI.
+Developed in Java. This program allows users to choose their courses through CLI.
 
 ![image](https://user-images.githubusercontent.com/104743984/180637941-cd7c3107-dc22-41e4-bb67-b4967c7d8182.png)
 
